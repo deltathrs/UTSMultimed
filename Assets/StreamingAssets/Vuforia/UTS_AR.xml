@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Truck_Card" size="5.000000 4.977778" />
+    <ImageTarget name="Motorcycle_Card" size="5.000000 2.812500" />
+    <ImageTarget name="Car_Card" size="5.000000 3.125000" />
+    <ImageTarget name="Bus_Card" size="5.000000 3.067039" />
+  </Tracking>
+</QCARConfig>
